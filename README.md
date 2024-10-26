@@ -39,4 +39,5 @@ To explore the project:
 1. Download the [raw data](https://github.com/BhavanaMallipeddi/Bike_Sales_Analysis/blob/main/raw%20data.xlsx) file from this repository.
 2. Open the Excel file using Microsoft Excel or an equivalent spreadsheet software.
 3. Navigate through the different sheets to view the data, pivot tables, charts, and the interactive dashboard[Interactive Dashbord](https://github.com/BhavanaMallipeddi/Bike_Sales_Analysis/blob/main/Bike%20Sales%20Analysis.xlsx).
+![Dashboard](https://github.com/BhavanaMallipeddi/Bike_Sales_Analysis/blob/main/Dashboard.png)
 
