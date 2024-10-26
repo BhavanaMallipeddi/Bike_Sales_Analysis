@@ -28,9 +28,17 @@ This project involves the following steps and components:
 
 - **Data Cleaning and Preprocessing**: The dataset underwent thorough cleaning and preprocessing within Excel to ensure data quality and consistency.
 
-- **Pivot Tables and Charts**: Utilizing Excel's pivot tables and charting features, we've created visualizations to uncover trends and insights related to different aspects of the dataset.![Pivot Tables and Charts](
+- **Pivot Tables and Charts**: Utilizing Excel's pivot tables and charting features, we've created visualizations to uncover trends and insights related to different aspects of the dataset
 
-- **Sales Analysis Dashboard**: The project culminates in a visual dashboard created entirely within Excel. This interactive dashboard provides an overview of the sales data and allows users to explore key metrics and trends.
+  .![Pivot Tables and Charts](https://github.com/BhavanaMallipeddi/Bike_Sales_Analysis/blob/main/Pivot%20tables%20%26%20charts.png)
+
+
+
+- **Sales Analysis Dashboard**: The project culminates in a visual dashboard created entirely within Excel. This interactive dashboard[Interactive Dashbord](https://github.com/BhavanaMallipeddi/Bike_Sales_Analysis/blob/main/Bike%20Sales%20Analysis.xlsx). provides an overview of the sales data and allows users to explore key metrics and trends.
+  
+  
+![Dashboard](https://github.com/BhavanaMallipeddi/Bike_Sales_Analysis/blob/main/Dashboard.png)
+
 
 ## Usage
 
@@ -39,5 +47,4 @@ To explore the project:
 1. Download the [raw data](https://github.com/BhavanaMallipeddi/Bike_Sales_Analysis/blob/main/raw%20data.xlsx) file from this repository.
 2. Open the Excel file using Microsoft Excel or an equivalent spreadsheet software.
 3. Navigate through the different sheets to view the data, pivot tables, charts, and the interactive dashboard[Interactive Dashbord](https://github.com/BhavanaMallipeddi/Bike_Sales_Analysis/blob/main/Bike%20Sales%20Analysis.xlsx).
-![Dashboard](https://github.com/BhavanaMallipeddi/Bike_Sales_Analysis/blob/main/Dashboard.png)
 
