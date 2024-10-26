@@ -38,12 +38,5 @@ To explore the project:
 
 1. Download the [raw data](https://github.com/BhavanaMallipeddi/Bike_Sales_Analysis/blob/main/raw%20data.xlsx) file from this repository.
 2. Open the Excel file using Microsoft Excel or an equivalent spreadsheet software.
-3. Navigate through the different sheets to view the data, pivot tables, charts, and the interactive dashboard.
+3. Navigate through the different sheets to view the data, pivot tables, charts, and the interactive dashboard[Interactive Dashbord](https://github.com/BhavanaMallipeddi/Bike_Sales_Analysis/blob/main/Bike%20Sales%20Analysis.xlsx).
 
-Feel free to customize the project according to your needs and use it as a reference for your own Excel-based analysis.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to use, share, and adapt the content. If you have any feedback or suggestions, please let us know. Enjoy your sales analysis journey!
