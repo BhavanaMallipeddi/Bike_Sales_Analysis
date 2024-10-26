@@ -5,7 +5,7 @@ Welcome to the Sales Analysis Excel Project repository! This project focuses on 
 
 ## Dataset
 
-The dataset is stored in an Excel file named `Raw Data.xlsx`. It includes the following columns:
+The dataset is stored in an Excel file named `raw data.xlsx`. It includes the following columns:
 
 - ID
 - Marital Status
@@ -36,7 +36,7 @@ This project involves the following steps and components:
 
 To explore the project:
 
-1. Download the `Raw Data.xlsx` file from this repository.
+1. Download the `raw data.xlsx` file from this repository.
 2. Open the Excel file using Microsoft Excel or an equivalent spreadsheet software.
 3. Navigate through the different sheets to view the data, pivot tables, charts, and the interactive dashboard.
 
